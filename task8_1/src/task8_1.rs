@@ -3,7 +3,6 @@ use rand::Rng;
 use std::collections::HashMap;
 
 fn input () -> usize {
-
     loop{
     let mut x = String::new();
 
