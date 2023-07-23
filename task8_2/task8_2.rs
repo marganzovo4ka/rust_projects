@@ -8,7 +8,6 @@ fn main() {
 
     let arr_of_let = ["e","y","u","i","o","a","E","Y","U","I","O","A"];
     
-
     let mut pig_latin = String::new();  
 
     for word in x.split_whitespace(){
