@@ -1,7 +1,6 @@
 use std::io;
 use colored::*;
 
-
 fn input () -> i32 {
     loop{
     let mut x = String::new();
