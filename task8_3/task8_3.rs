@@ -34,7 +34,6 @@ fn main() {
 }
 
 fn add(departments: &mut HashMap<String, Vec<String>>){
-
     println!("enter the name of worker");
 
     let mut person = String::new();
