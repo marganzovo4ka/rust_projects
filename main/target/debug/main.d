@@ -1,0 +1,1 @@
+D:\clone\rust_projects\main\target\debug\main.exe: D:\clone\rust_projects\main\src\div_voltage.rs D:\clone\rust_projects\main\src\guessing_game.rs D:\clone\rust_projects\main\src\main.rs D:\clone\rust_projects\main\src\simple_numbers.rs D:\clone\rust_projects\main\src\task8_1.rs D:\clone\rust_projects\main\src\task8_2.rs D:\clone\rust_projects\main\src\task8_3.rs
