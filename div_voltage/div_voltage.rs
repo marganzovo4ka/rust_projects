@@ -1,5 +1,6 @@
 use std::io;
 
+
 fn input () -> f32 {
 
     loop{
